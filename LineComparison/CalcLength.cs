@@ -25,5 +25,6 @@ namespace LineComparison
             Console.WriteLine(" Length of line : " + result + " units\n");
             return result;
         }
+  
     }
 }
